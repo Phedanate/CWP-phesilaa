@@ -1,7 +1,7 @@
 from checkmate import checkmate
 import sys
 
-board = """
+board = """\
 R...
 .K..
 P.P.
