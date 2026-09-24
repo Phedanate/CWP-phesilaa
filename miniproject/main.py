@@ -8,7 +8,6 @@ P.P.
 ....
 """
 if len(sys.argv) == 1:
-        checkmate(board)
+    checkmate(board)
 else:
     print("There must be only one Argument.")
-
